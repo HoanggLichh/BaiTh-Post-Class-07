@@ -1,0 +1,9 @@
+project/ (5400 B)
+  README.md (1200 B)
+  src/ (4200 B)
+    Main.java (3400 B)
+    util/ (800 B)
+      Helper.java (800 B)
+  empty/ (0 B)
+File đơn : 10
+Cả cây   : 5400

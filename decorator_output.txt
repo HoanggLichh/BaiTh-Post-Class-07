@@ -1,0 +1,5 @@
+Thô              : aaabbbbcc
+Lưu trong file   : 4b5c3d
+Đọc lại qua lớp  : aaabbbbcc
+Khớp dữ liệu gốc : true
+Chỉ mã hoá       : bcd -> abc
